@@ -32,6 +32,7 @@ public class TC001_VerifyCreateUserAccount extends TestBase {
 		homepage.getMassageText();
 		Thread.sleep(5000);
 		
+		
 	//Assert.assertEquals(homepage.getMassageText(), "");
 	}
 	@AfterClass
