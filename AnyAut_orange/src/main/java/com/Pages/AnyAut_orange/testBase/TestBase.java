@@ -8,6 +8,8 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 
+import com.Pages.AnyAut_orange.excelReader.Excel_Reader;
+
 public class TestBase {
 	public static final Logger log = Logger.getLogger(TestBase.class.getName());
 	//public static final Logger log = Logger.getLogger(TestBase.class.getName());
@@ -15,7 +17,7 @@ public class TestBase {
 	public WebDriver driver;
 	String url = "https://anyaut.com/orange";
 	String browser = "firefox";
-	
+	Excel_Reader excel;
 	public void init(){
 		selectBrowser(browser);
 		getUrl(url);
@@ -52,6 +54,15 @@ public class TestBase {
 		driver.get(url);
 		driver.manage().window().maximize();
 		driver.manage().timeouts().implicitlyWait(15, TimeUnit.SECONDS);
+	}
+	
+	public String[][] getData(String excelName, String sheetName){
+		//\src\main\java\com\Pages\AnyAut_orange\data\DataSheet.xlsx
+		String path = System.getProperty("user.dir")+"\\src\\main\\java\\com\\Pages\\AnyAut_orange\\data\\" + excelName;
+		excel = new Excel_Reader (path);
+		System.out.println(path);
+		String [][] data=excel.getDataFromSheet(sheetName, excelName);
+		return data;
 	}
 
 }

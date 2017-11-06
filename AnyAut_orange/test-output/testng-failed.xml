@@ -3,13 +3,13 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test name="Default test(failed)">
     <classes>
-      <class name="com.Pages.AnyAut_orange.homepage.TC002_VerifyLoginWithValidData">
+      <class name="com.Pages.AnyAut_orange.homepage.VerifyLoginWithDifferentData">
         <methods>
-          <include name="endTest"/>
-          <include name="testValidLogin"/>
           <include name="setUp"/>
+          <include name="endsession"/>
+          <include name="testValidLogin" invocation-numbers="1 2 3 4"/>
         </methods>
-      </class> <!-- com.Pages.AnyAut_orange.homepage.TC002_VerifyLoginWithValidData -->
+      </class> <!-- com.Pages.AnyAut_orange.homepage.VerifyLoginWithDifferentData -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
