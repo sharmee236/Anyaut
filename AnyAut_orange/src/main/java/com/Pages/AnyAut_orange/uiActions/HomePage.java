@@ -130,5 +130,10 @@ public class HomePage {
 		return getMassageText.getText();
 	}
 	
+	public void clickOnNavigationManu(String menuName){
+		driver.findElement(By.xpath("//div[@id='sidebar-menu']//*[contains(text(),'"+menuName+"')]")).click();
+		log.info("clicked on : '" + menuName + "' navigation manu");
+	}
+	
 
 	}	

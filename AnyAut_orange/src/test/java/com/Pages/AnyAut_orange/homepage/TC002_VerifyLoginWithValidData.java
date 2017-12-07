@@ -22,7 +22,12 @@ public class TC002_VerifyLoginWithValidData extends TestBase  {
 		log.info("===========Starting ValidLogin Test================= ");
 		homepage = new HomePage(driver);
 		homepage.loginToApplication(email, passwrd);
-		Assert.assertEquals(false, homepage.verifyLoginText());
+		homepage.clickOnNavigationManu("Test Plan");
+		homepage.clickOnNavigationManu("Test Setup");
+		
+		homepage.clickOnNavigationManu("AUT");
+	
+		//Assert.assertEquals(false, homepage.verifyLoginText());
 		
 	}
 	

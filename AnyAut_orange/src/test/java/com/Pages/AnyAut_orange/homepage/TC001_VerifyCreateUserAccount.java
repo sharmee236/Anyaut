@@ -37,7 +37,7 @@ public class TC001_VerifyCreateUserAccount extends TestBase {
 	}
 	@AfterClass
 	public void endTest(){
-		//driver.quit();
+		driver.quit();
 	}
 	
 

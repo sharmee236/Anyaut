@@ -238,3 +238,248 @@ clicked on signin button and object is: Proxy element for: DefaultElementLocator
 2017-11-05 23:30:44 INFO  HomePage: 79 - entered email address and object is: [[FirefoxDriver: firefox on XP (3af544ad-9f04-4751-bacf-90a5928072f0)] -> id: username]
 2017-11-05 23:30:44 INFO  HomePage: 81 - entered password and object is: [[FirefoxDriver: firefox on XP (3af544ad-9f04-4751-bacf-90a5928072f0)] -> id: password]
 2017-11-05 23:31:03 INFO  HomePage: 83 - clicked on signin button and object is: Proxy element for: DefaultElementLocator 'By.id: singlebutton'
+2017-11-06 22:03:01 INFO  TestBase: 39 - ===========Starting VerifyLoginWithDifferentData Test================= 
+2017-11-06 22:03:05 INFO  HomePage: 77 - clicked on login and object is: [[FirefoxDriver: firefox on XP (7d89ffae-81f8-4467-839a-8e89c99c63f2)] -> class name: login-button]
+2017-11-06 22:03:05 INFO  HomePage: 79 - entered email address and object is: [[FirefoxDriver: firefox on XP (7d89ffae-81f8-4467-839a-8e89c99c63f2)] -> id: username]
+2017-11-06 22:03:05 INFO  HomePage: 81 - entered password and object is: [[FirefoxDriver: firefox on XP (7d89ffae-81f8-4467-839a-8e89c99c63f2)] -> id: password]
+2017-11-06 22:03:10 INFO  HomePage: 83 - clicked on signin button and object is: [[FirefoxDriver: firefox on XP (7d89ffae-81f8-4467-839a-8e89c99c63f2)] -> id: singlebutton]
+2017-11-06 22:03:25 INFO  TestBase: 44 - ===========ending VerifyLoginWithDifferentData Test================= 
+2017-11-06 22:03:25 INFO  TestBase: 39 - ===========Starting VerifyLoginWithDifferentData Test================= 
+2017-11-06 22:03:29 INFO  HomePage: 77 - clicked on login and object is: [[FirefoxDriver: firefox on XP (7d89ffae-81f8-4467-839a-8e89c99c63f2)] -> class name: login-button]
+2017-11-06 22:03:29 INFO  HomePage: 79 - entered email address and object is: [[FirefoxDriver: firefox on XP (7d89ffae-81f8-4467-839a-8e89c99c63f2)] -> id: username]
+2017-11-06 22:03:29 INFO  HomePage: 81 - entered password and object is: [[FirefoxDriver: firefox on XP (7d89ffae-81f8-4467-839a-8e89c99c63f2)] -> id: password]
+2017-11-06 22:03:33 INFO  HomePage: 83 - clicked on signin button and object is: [[FirefoxDriver: firefox on XP (7d89ffae-81f8-4467-839a-8e89c99c63f2)] -> id: singlebutton]
+2017-11-06 22:03:49 INFO  TestBase: 44 - ===========ending VerifyLoginWithDifferentData Test================= 
+2017-11-06 22:03:49 INFO  TestBase: 39 - ===========Starting VerifyLoginWithDifferentData Test================= 
+2017-11-06 22:03:52 INFO  HomePage: 77 - clicked on login and object is: [[FirefoxDriver: firefox on XP (7d89ffae-81f8-4467-839a-8e89c99c63f2)] -> class name: login-button]
+2017-11-06 22:03:52 INFO  HomePage: 79 - entered email address and object is: [[FirefoxDriver: firefox on XP (7d89ffae-81f8-4467-839a-8e89c99c63f2)] -> id: username]
+2017-11-06 22:03:52 INFO  HomePage: 81 - entered password and object is: [[FirefoxDriver: firefox on XP (7d89ffae-81f8-4467-839a-8e89c99c63f2)] -> id: password]
+2017-11-06 22:03:57 INFO  HomePage: 83 - clicked on signin button and object is: [[FirefoxDriver: firefox on XP (7d89ffae-81f8-4467-839a-8e89c99c63f2)] -> id: singlebutton]
+2017-11-06 22:04:12 INFO  TestBase: 44 - ===========ending VerifyLoginWithDifferentData Test================= 
+2017-11-06 22:04:12 INFO  TestBase: 39 - ===========Starting VerifyLoginWithDifferentData Test================= 
+2017-11-06 22:04:16 INFO  HomePage: 77 - clicked on login and object is: [[FirefoxDriver: firefox on XP (7d89ffae-81f8-4467-839a-8e89c99c63f2)] -> class name: login-button]
+2017-11-06 22:04:16 INFO  HomePage: 79 - entered email address and object is: [[FirefoxDriver: firefox on XP (7d89ffae-81f8-4467-839a-8e89c99c63f2)] -> id: username]
+2017-11-06 22:04:16 INFO  HomePage: 81 - entered password and object is: [[FirefoxDriver: firefox on XP (7d89ffae-81f8-4467-839a-8e89c99c63f2)] -> id: password]
+2017-11-06 22:04:22 INFO  HomePage: 83 - clicked on signin button and object is: [[FirefoxDriver: firefox on XP (7d89ffae-81f8-4467-839a-8e89c99c63f2)] -> id: singlebutton]
+2017-11-06 22:04:37 INFO  TestBase: 44 - ===========ending VerifyLoginWithDifferentData Test================= 
+2017-11-06 22:04:37 INFO  TestBase: 39 - ===========Starting VerifyLoginWithDifferentData Test================= 
+2017-11-06 22:04:40 INFO  HomePage: 77 - clicked on login and object is: [[FirefoxDriver: firefox on XP (7d89ffae-81f8-4467-839a-8e89c99c63f2)] -> class name: login-button]
+2017-11-06 22:04:40 INFO  HomePage: 79 - entered email address and object is: [[FirefoxDriver: firefox on XP (7d89ffae-81f8-4467-839a-8e89c99c63f2)] -> id: username]
+2017-11-06 22:04:40 INFO  HomePage: 81 - entered password and object is: [[FirefoxDriver: firefox on XP (7d89ffae-81f8-4467-839a-8e89c99c63f2)] -> id: password]
+2017-11-06 22:05:00 INFO  HomePage: 83 - clicked on signin button and object is: Proxy element for: DefaultElementLocator 'By.id: singlebutton'
+2017-11-06 22:11:37 INFO  TestBase: 39 - ===========Starting VerifyLoginWithDifferentData Test================= 
+2017-11-06 22:11:40 INFO  HomePage: 77 - clicked on login and object is: [[FirefoxDriver: firefox on XP (fb0f5ca7-7390-4ab9-b0d3-c6136f0ea942)] -> class name: login-button]
+2017-11-06 22:11:40 INFO  HomePage: 79 - entered email address and object is: [[FirefoxDriver: firefox on XP (fb0f5ca7-7390-4ab9-b0d3-c6136f0ea942)] -> id: username]
+2017-11-06 22:11:41 INFO  HomePage: 81 - entered password and object is: [[FirefoxDriver: firefox on XP (fb0f5ca7-7390-4ab9-b0d3-c6136f0ea942)] -> id: password]
+2017-11-06 22:11:45 INFO  HomePage: 83 - clicked on signin button and object is: [[FirefoxDriver: firefox on XP (fb0f5ca7-7390-4ab9-b0d3-c6136f0ea942)] -> id: singlebutton]
+2017-11-06 22:12:01 INFO  TestBase: 44 - ===========ending VerifyLoginWithDifferentData Test================= 
+2017-11-06 22:12:01 INFO  TestBase: 39 - ===========Starting VerifyLoginWithDifferentData Test================= 
+2017-11-06 22:12:04 INFO  HomePage: 77 - clicked on login and object is: [[FirefoxDriver: firefox on XP (fb0f5ca7-7390-4ab9-b0d3-c6136f0ea942)] -> class name: login-button]
+2017-11-06 22:12:04 INFO  HomePage: 79 - entered email address and object is: [[FirefoxDriver: firefox on XP (fb0f5ca7-7390-4ab9-b0d3-c6136f0ea942)] -> id: username]
+2017-11-06 22:12:04 INFO  HomePage: 81 - entered password and object is: [[FirefoxDriver: firefox on XP (fb0f5ca7-7390-4ab9-b0d3-c6136f0ea942)] -> id: password]
+2017-11-06 22:12:23 INFO  HomePage: 83 - clicked on signin button and object is: Proxy element for: DefaultElementLocator 'By.id: singlebutton'
+2017-11-06 22:15:27 INFO  TestBase: 39 - ===========Starting VerifyLoginWithDifferentData Test================= 
+2017-11-06 22:15:30 INFO  HomePage: 77 - clicked on login and object is: [[FirefoxDriver: firefox on XP (8d97b34c-2332-4d6a-80f3-7c2025f508a6)] -> class name: login-button]
+2017-11-06 22:15:31 INFO  HomePage: 79 - entered email address and object is: [[FirefoxDriver: firefox on XP (8d97b34c-2332-4d6a-80f3-7c2025f508a6)] -> id: username]
+2017-11-06 22:15:31 INFO  HomePage: 81 - entered password and object is: [[FirefoxDriver: firefox on XP (8d97b34c-2332-4d6a-80f3-7c2025f508a6)] -> id: password]
+2017-11-06 22:15:36 INFO  HomePage: 83 - clicked on signin button and object is: [[FirefoxDriver: firefox on XP (8d97b34c-2332-4d6a-80f3-7c2025f508a6)] -> id: singlebutton]
+2017-11-06 22:15:51 INFO  TestBase: 44 - ===========ending VerifyLoginWithDifferentData Test================= 
+2017-11-06 22:15:51 INFO  TestBase: 39 - ===========Starting VerifyLoginWithDifferentData Test================= 
+2017-11-06 22:15:55 INFO  HomePage: 77 - clicked on login and object is: [[FirefoxDriver: firefox on XP (8d97b34c-2332-4d6a-80f3-7c2025f508a6)] -> class name: login-button]
+2017-11-06 22:15:55 INFO  HomePage: 79 - entered email address and object is: [[FirefoxDriver: firefox on XP (8d97b34c-2332-4d6a-80f3-7c2025f508a6)] -> id: username]
+2017-11-06 22:15:55 INFO  HomePage: 81 - entered password and object is: [[FirefoxDriver: firefox on XP (8d97b34c-2332-4d6a-80f3-7c2025f508a6)] -> id: password]
+2017-11-06 22:16:14 INFO  HomePage: 83 - clicked on signin button and object is: Proxy element for: DefaultElementLocator 'By.id: singlebutton'
+2017-11-06 22:19:08 INFO  TestBase: 39 - ===========Starting VerifyLoginWithDifferentData Test================= 
+2017-11-06 22:19:12 INFO  HomePage: 77 - clicked on login and object is: [[FirefoxDriver: firefox on XP (66bc4c7e-8f3c-431d-bec3-671cceb6a44d)] -> class name: login-button]
+2017-11-06 22:19:12 INFO  HomePage: 79 - entered email address and object is: [[FirefoxDriver: firefox on XP (66bc4c7e-8f3c-431d-bec3-671cceb6a44d)] -> id: username]
+2017-11-06 22:19:12 INFO  HomePage: 81 - entered password and object is: [[FirefoxDriver: firefox on XP (66bc4c7e-8f3c-431d-bec3-671cceb6a44d)] -> id: password]
+2017-11-06 22:19:17 INFO  HomePage: 83 - clicked on signin button and object is: [[FirefoxDriver: firefox on XP (66bc4c7e-8f3c-431d-bec3-671cceb6a44d)] -> id: singlebutton]
+2017-11-06 22:19:33 INFO  TestBase: 44 - ===========ending VerifyLoginWithDifferentData Test================= 
+2017-11-06 22:19:33 INFO  TestBase: 39 - ===========Starting VerifyLoginWithDifferentData Test================= 
+2017-11-06 22:19:36 INFO  HomePage: 77 - clicked on login and object is: [[FirefoxDriver: firefox on XP (66bc4c7e-8f3c-431d-bec3-671cceb6a44d)] -> class name: login-button]
+2017-11-06 22:19:36 INFO  HomePage: 79 - entered email address and object is: [[FirefoxDriver: firefox on XP (66bc4c7e-8f3c-431d-bec3-671cceb6a44d)] -> id: username]
+2017-11-06 22:19:36 INFO  HomePage: 81 - entered password and object is: [[FirefoxDriver: firefox on XP (66bc4c7e-8f3c-431d-bec3-671cceb6a44d)] -> id: password]
+2017-11-06 22:19:55 INFO  HomePage: 83 - clicked on signin button and object is: Proxy element for: DefaultElementLocator 'By.id: singlebutton'
+2017-11-06 22:26:11 INFO  TestBase: 38 - ===========Starting VerifyLoginWithDifferentData Test================= 
+2017-11-06 22:26:14 INFO  HomePage: 77 - clicked on login and object is: [[FirefoxDriver: firefox on XP (3e4b5a4c-7394-491a-9f4a-3d5a93f1bcbd)] -> class name: login-button]
+2017-11-06 22:26:14 INFO  HomePage: 79 - entered email address and object is: [[FirefoxDriver: firefox on XP (3e4b5a4c-7394-491a-9f4a-3d5a93f1bcbd)] -> id: username]
+2017-11-06 22:26:14 INFO  HomePage: 81 - entered password and object is: [[FirefoxDriver: firefox on XP (3e4b5a4c-7394-491a-9f4a-3d5a93f1bcbd)] -> id: password]
+2017-11-06 22:26:19 INFO  HomePage: 83 - clicked on signin button and object is: [[FirefoxDriver: firefox on XP (3e4b5a4c-7394-491a-9f4a-3d5a93f1bcbd)] -> id: singlebutton]
+2017-11-06 22:26:34 INFO  TestBase: 38 - ===========Starting VerifyLoginWithDifferentData Test================= 
+2017-11-06 22:26:37 INFO  HomePage: 77 - clicked on login and object is: [[FirefoxDriver: firefox on XP (3e4b5a4c-7394-491a-9f4a-3d5a93f1bcbd)] -> class name: login-button]
+2017-11-06 22:26:38 INFO  HomePage: 79 - entered email address and object is: [[FirefoxDriver: firefox on XP (3e4b5a4c-7394-491a-9f4a-3d5a93f1bcbd)] -> id: username]
+2017-11-06 22:26:38 INFO  HomePage: 81 - entered password and object is: [[FirefoxDriver: firefox on XP (3e4b5a4c-7394-491a-9f4a-3d5a93f1bcbd)] -> id: password]
+2017-11-06 22:26:57 INFO  HomePage: 83 - clicked on signin button and object is: Proxy element for: DefaultElementLocator 'By.id: singlebutton'
+2017-11-06 22:26:57 INFO  TestBase: 43 - ===========ending VerifyLoginWithDifferentData Test================= 
+2017-11-06 22:30:37 INFO  TestBase: 38 - ===========Starting VerifyLoginWithDifferentData Test================= 
+2017-11-06 22:30:40 INFO  HomePage: 77 - clicked on login and object is: [[FirefoxDriver: firefox on XP (3b2e1c7d-e175-45e7-81f8-7795c81ef49c)] -> class name: login-button]
+2017-11-06 22:30:41 INFO  HomePage: 79 - entered email address and object is: [[FirefoxDriver: firefox on XP (3b2e1c7d-e175-45e7-81f8-7795c81ef49c)] -> id: username]
+2017-11-06 22:30:41 INFO  HomePage: 81 - entered password and object is: [[FirefoxDriver: firefox on XP (3b2e1c7d-e175-45e7-81f8-7795c81ef49c)] -> id: password]
+2017-11-06 22:30:45 INFO  HomePage: 83 - clicked on signin button and object is: [[FirefoxDriver: firefox on XP (3b2e1c7d-e175-45e7-81f8-7795c81ef49c)] -> id: singlebutton]
+2017-11-06 22:30:46 INFO  TestBase: 43 - ===========ending VerifyLoginWithDifferentData Test================= 
+2017-11-06 22:30:46 INFO  TestBase: 38 - ===========Starting VerifyLoginWithDifferentData Test================= 
+2017-11-06 22:30:49 INFO  HomePage: 77 - clicked on login and object is: [[FirefoxDriver: firefox on XP (3b2e1c7d-e175-45e7-81f8-7795c81ef49c)] -> class name: login-button]
+2017-11-06 22:30:49 INFO  HomePage: 79 - entered email address and object is: [[FirefoxDriver: firefox on XP (3b2e1c7d-e175-45e7-81f8-7795c81ef49c)] -> id: username]
+2017-11-06 22:30:49 INFO  HomePage: 81 - entered password and object is: [[FirefoxDriver: firefox on XP (3b2e1c7d-e175-45e7-81f8-7795c81ef49c)] -> id: password]
+2017-11-06 22:31:08 INFO  HomePage: 83 - clicked on signin button and object is: Proxy element for: DefaultElementLocator 'By.id: singlebutton'
+2017-11-06 22:31:08 INFO  TestBase: 43 - ===========ending VerifyLoginWithDifferentData Test================= 
+2017-11-07 22:17:31 INFO  TestBase: 22 - ===========Starting ValidLogin Test================= 
+2017-11-07 22:17:35 INFO  HomePage: 77 - clicked on login and object is: [[FirefoxDriver: firefox on XP (ba36a16b-187f-43df-89a1-483a5ff507f2)] -> class name: login-button]
+2017-11-07 22:17:35 INFO  HomePage: 79 - entered email address and object is: [[FirefoxDriver: firefox on XP (ba36a16b-187f-43df-89a1-483a5ff507f2)] -> id: username]
+2017-11-07 22:17:35 INFO  HomePage: 81 - entered password and object is: [[FirefoxDriver: firefox on XP (ba36a16b-187f-43df-89a1-483a5ff507f2)] -> id: password]
+2017-11-07 22:17:54 INFO  HomePage: 83 - clicked on signin button and object is: Proxy element for: DefaultElementLocator 'By.id: singlebutton'
+2017-11-07 22:19:53 INFO  TestBase: 22 - ===========Starting ValidLogin Test================= 
+2017-11-07 22:19:57 INFO  HomePage: 77 - clicked on login and object is: [[FirefoxDriver: firefox on XP (953e83c0-ea7f-4e1c-9ccf-a53c21c08af5)] -> class name: login-button]
+2017-11-07 22:19:57 INFO  HomePage: 79 - entered email address and object is: [[FirefoxDriver: firefox on XP (953e83c0-ea7f-4e1c-9ccf-a53c21c08af5)] -> id: username]
+2017-11-07 22:19:57 INFO  HomePage: 81 - entered password and object is: [[FirefoxDriver: firefox on XP (953e83c0-ea7f-4e1c-9ccf-a53c21c08af5)] -> id: password]
+2017-11-07 22:20:16 INFO  HomePage: 83 - clicked on signin button and object is: Proxy element for: DefaultElementLocator 'By.id: singlebutton'
+2017-11-07 22:21:42 INFO  TestBase: 22 - ===========Starting ValidLogin Test================= 
+2017-11-07 22:21:46 INFO  HomePage: 77 - clicked on login and object is: [[FirefoxDriver: firefox on XP (2a6f3aca-73c7-4b57-b897-0efa7c7f4e24)] -> class name: login-button]
+2017-11-07 22:21:46 INFO  HomePage: 79 - entered email address and object is: [[FirefoxDriver: firefox on XP (2a6f3aca-73c7-4b57-b897-0efa7c7f4e24)] -> id: username]
+2017-11-07 22:21:46 INFO  HomePage: 81 - entered password and object is: [[FirefoxDriver: firefox on XP (2a6f3aca-73c7-4b57-b897-0efa7c7f4e24)] -> id: password]
+2017-11-07 22:22:05 INFO  HomePage: 83 - clicked on signin button and object is: Proxy element for: DefaultElementLocator 'By.id: singlebutton'
+2017-11-07 22:29:36 INFO  TestBase: 22 - ===========Starting ValidLogin Test================= 
+2017-11-07 22:29:40 INFO  HomePage: 77 - clicked on login and object is: [[FirefoxDriver: firefox on XP (d2f00fc0-ab9e-4e00-9d95-9f75294df90f)] -> class name: login-button]
+2017-11-07 22:29:40 INFO  HomePage: 79 - entered email address and object is: [[FirefoxDriver: firefox on XP (d2f00fc0-ab9e-4e00-9d95-9f75294df90f)] -> id: username]
+2017-11-07 22:29:40 INFO  HomePage: 81 - entered password and object is: [[FirefoxDriver: firefox on XP (d2f00fc0-ab9e-4e00-9d95-9f75294df90f)] -> id: password]
+2017-11-07 22:29:59 INFO  HomePage: 83 - clicked on signin button and object is: Proxy element for: DefaultElementLocator 'By.id: singlebutton'
+2017-11-07 22:29:59 INFO  HomePage: 135 - clicked on : Test Plannavigation manu
+2017-11-07 22:30:00 INFO  HomePage: 135 - clicked on : Test Setupnavigation manu
+2017-11-07 22:34:19 INFO  TestBase: 22 - ===========Starting ValidLogin Test================= 
+2017-11-07 22:34:24 INFO  HomePage: 77 - clicked on login and object is: [[FirefoxDriver: firefox on XP (9ff51a20-9c63-4d6f-87ab-e2e1bed6a701)] -> class name: login-button]
+2017-11-07 22:34:24 INFO  HomePage: 79 - entered email address and object is: [[FirefoxDriver: firefox on XP (9ff51a20-9c63-4d6f-87ab-e2e1bed6a701)] -> id: username]
+2017-11-07 22:34:24 INFO  HomePage: 81 - entered password and object is: [[FirefoxDriver: firefox on XP (9ff51a20-9c63-4d6f-87ab-e2e1bed6a701)] -> id: password]
+2017-11-07 22:34:43 INFO  HomePage: 83 - clicked on signin button and object is: Proxy element for: DefaultElementLocator 'By.id: singlebutton'
+2017-11-07 22:34:44 INFO  HomePage: 135 - clicked on : 'Test Plan' navigation manu
+2017-11-07 22:34:44 INFO  HomePage: 135 - clicked on : 'Test Setup' navigation manu
+2017-11-07 22:34:45 INFO  HomePage: 135 - clicked on : 'AUT' navigation manu
+2017-11-07 22:36:08 INFO  TestBase: 22 - ===========Starting ValidLogin Test================= 
+2017-11-07 22:36:11 INFO  HomePage: 77 - clicked on login and object is: [[FirefoxDriver: firefox on XP (4b10efa4-39e9-4b25-80d0-2804fb6072bd)] -> class name: login-button]
+2017-11-07 22:36:11 INFO  HomePage: 79 - entered email address and object is: [[FirefoxDriver: firefox on XP (4b10efa4-39e9-4b25-80d0-2804fb6072bd)] -> id: username]
+2017-11-07 22:36:11 INFO  HomePage: 81 - entered password and object is: [[FirefoxDriver: firefox on XP (4b10efa4-39e9-4b25-80d0-2804fb6072bd)] -> id: password]
+2017-11-07 22:36:30 INFO  HomePage: 83 - clicked on signin button and object is: Proxy element for: DefaultElementLocator 'By.id: singlebutton'
+2017-11-07 22:36:30 INFO  HomePage: 135 - clicked on : 'Test Plan' navigation manu
+2017-11-07 22:36:31 INFO  HomePage: 135 - clicked on : 'Test Setup' navigation manu
+2017-11-07 22:36:32 INFO  HomePage: 135 - clicked on : 'AUT' navigation manu
+2017-11-17 00:09:54 INFO  TestBase: 23 - ===========Starting ValidLogin Test================= 
+2017-11-17 00:09:58 INFO  HomePage: 77 - clicked on login and object is: [[FirefoxDriver: firefox on XP (c509139e-a616-46f2-b4f8-9530b61d014b)] -> class name: login-button]
+2017-11-17 00:09:58 INFO  HomePage: 79 - entered email address and object is: [[FirefoxDriver: firefox on XP (c509139e-a616-46f2-b4f8-9530b61d014b)] -> id: username]
+2017-11-17 00:09:58 INFO  HomePage: 81 - entered password and object is: [[FirefoxDriver: firefox on XP (c509139e-a616-46f2-b4f8-9530b61d014b)] -> id: password]
+2017-11-17 00:10:17 INFO  HomePage: 83 - clicked on signin button and object is: Proxy element for: DefaultElementLocator 'By.id: singlebutton'
+2017-11-17 00:10:18 INFO  HomePage: 135 - clicked on : 'Test Plan' navigation manu
+2017-11-17 00:10:18 INFO  HomePage: 135 - clicked on : 'Test Setup' navigation manu
+2017-11-17 00:10:19 INFO  HomePage: 135 - clicked on : 'AUT' navigation manu
+2017-11-21 10:54:19 INFO  TestBase: 22 - ===========Starting ValidLogin Test================= 
+2017-11-21 10:54:22 INFO  HomePage: 77 - clicked on login and object is: [[FirefoxDriver: firefox on XP (cff4c039-79ae-4d4e-832b-5d9dbc05bf7a)] -> class name: login-button]
+2017-11-21 10:54:22 INFO  HomePage: 79 - entered email address and object is: [[FirefoxDriver: firefox on XP (cff4c039-79ae-4d4e-832b-5d9dbc05bf7a)] -> id: username]
+2017-11-21 10:54:22 INFO  HomePage: 81 - entered password and object is: [[FirefoxDriver: firefox on XP (cff4c039-79ae-4d4e-832b-5d9dbc05bf7a)] -> id: password]
+2017-11-21 10:54:42 INFO  HomePage: 83 - clicked on signin button and object is: Proxy element for: DefaultElementLocator 'By.id: singlebutton'
+2017-11-21 10:54:42 INFO  HomePage: 135 - clicked on : 'Test Plan' navigation manu
+2017-11-21 10:54:42 INFO  HomePage: 135 - clicked on : 'Test Setup' navigation manu
+2017-11-21 10:54:43 INFO  HomePage: 135 - clicked on : 'AUT' navigation manu
+2017-11-21 10:57:17 INFO  TestBase: 22 - ===========Starting ValidLogin Test================= 
+2017-11-21 10:57:20 INFO  HomePage: 77 - clicked on login and object is: [[FirefoxDriver: firefox on XP (b3a11dbd-70b7-4371-af6e-77ab623c7cb6)] -> class name: login-button]
+2017-11-21 10:57:20 INFO  HomePage: 79 - entered email address and object is: [[FirefoxDriver: firefox on XP (b3a11dbd-70b7-4371-af6e-77ab623c7cb6)] -> id: username]
+2017-11-21 10:57:20 INFO  HomePage: 81 - entered password and object is: [[FirefoxDriver: firefox on XP (b3a11dbd-70b7-4371-af6e-77ab623c7cb6)] -> id: password]
+2017-11-21 10:57:39 INFO  HomePage: 83 - clicked on signin button and object is: Proxy element for: DefaultElementLocator 'By.id: singlebutton'
+2017-11-21 10:57:40 INFO  HomePage: 135 - clicked on : 'Test Plan' navigation manu
+2017-11-21 10:57:40 INFO  HomePage: 135 - clicked on : 'Test Setup' navigation manu
+2017-11-21 10:57:41 INFO  HomePage: 135 - clicked on : 'AUT' navigation manu
+2017-11-21 23:27:21 INFO  TestBase: 22 - ===========Starting ValidLogin Test================= 
+2017-11-21 23:27:24 INFO  HomePage: 77 - clicked on login and object is: [[FirefoxDriver: firefox on XP (5d83ce8a-d86c-4200-8b1e-51463b1fd3d8)] -> class name: login-button]
+2017-11-21 23:27:24 INFO  HomePage: 79 - entered email address and object is: [[FirefoxDriver: firefox on XP (5d83ce8a-d86c-4200-8b1e-51463b1fd3d8)] -> id: username]
+2017-11-21 23:27:25 INFO  HomePage: 81 - entered password and object is: [[FirefoxDriver: firefox on XP (5d83ce8a-d86c-4200-8b1e-51463b1fd3d8)] -> id: password]
+2017-11-21 23:27:43 INFO  HomePage: 83 - clicked on signin button and object is: Proxy element for: DefaultElementLocator 'By.id: singlebutton'
+2017-11-21 23:27:44 INFO  HomePage: 135 - clicked on : 'Test Plan' navigation manu
+2017-11-21 23:27:44 INFO  HomePage: 135 - clicked on : 'Test Setup' navigation manu
+2017-11-21 23:27:45 INFO  HomePage: 135 - clicked on : 'AUT' navigation manu
+2017-11-22 09:06:30 INFO  TestBase: 22 - ===========Starting ValidLogin Test================= 
+2017-11-22 09:06:35 INFO  HomePage: 77 - clicked on login and object is: [[FirefoxDriver: firefox on XP (6ee10ba7-4fa3-432e-8ad3-1669d315aac3)] -> class name: login-button]
+2017-11-22 09:06:35 INFO  HomePage: 79 - entered email address and object is: [[FirefoxDriver: firefox on XP (6ee10ba7-4fa3-432e-8ad3-1669d315aac3)] -> id: username]
+2017-11-22 09:06:35 INFO  HomePage: 81 - entered password and object is: [[FirefoxDriver: firefox on XP (6ee10ba7-4fa3-432e-8ad3-1669d315aac3)] -> id: password]
+2017-11-22 09:07:01 INFO  HomePage: 83 - clicked on signin button and object is: Proxy element for: DefaultElementLocator 'By.id: singlebutton'
+2017-11-22 09:07:01 INFO  HomePage: 135 - clicked on : 'Test Plan' navigation manu
+2017-11-22 09:07:02 INFO  HomePage: 135 - clicked on : 'Test Setup' navigation manu
+2017-11-22 09:07:03 INFO  HomePage: 135 - clicked on : 'AUT' navigation manu
+2017-11-22 11:20:01 INFO  TestBase: 22 - ===========Starting ValidLogin Test================= 
+2017-11-22 11:20:05 INFO  HomePage: 77 - clicked on login and object is: [[FirefoxDriver: firefox on XP (e6f32509-fd4b-4a03-89dc-aad63958a4c3)] -> class name: login-button]
+2017-11-22 11:20:05 INFO  HomePage: 79 - entered email address and object is: [[FirefoxDriver: firefox on XP (e6f32509-fd4b-4a03-89dc-aad63958a4c3)] -> id: username]
+2017-11-22 11:20:06 INFO  HomePage: 81 - entered password and object is: [[FirefoxDriver: firefox on XP (e6f32509-fd4b-4a03-89dc-aad63958a4c3)] -> id: password]
+2017-11-22 11:20:27 INFO  HomePage: 83 - clicked on signin button and object is: Proxy element for: DefaultElementLocator 'By.id: singlebutton'
+2017-11-22 11:20:28 INFO  HomePage: 135 - clicked on : 'Test Plan' navigation manu
+2017-11-22 11:20:28 INFO  HomePage: 135 - clicked on : 'Test Setup' navigation manu
+2017-11-22 11:20:29 INFO  HomePage: 135 - clicked on : 'AUT' navigation manu
+2017-11-22 11:21:45 INFO  TestBase: 22 - ===========Starting ValidLogin Test================= 
+2017-11-22 11:21:48 INFO  HomePage: 77 - clicked on login and object is: [[FirefoxDriver: firefox on XP (27298e14-7c82-462b-bb3e-7c4dfc62ca1f)] -> class name: login-button]
+2017-11-22 11:21:48 INFO  HomePage: 79 - entered email address and object is: [[FirefoxDriver: firefox on XP (27298e14-7c82-462b-bb3e-7c4dfc62ca1f)] -> id: username]
+2017-11-22 11:21:48 INFO  HomePage: 81 - entered password and object is: [[FirefoxDriver: firefox on XP (27298e14-7c82-462b-bb3e-7c4dfc62ca1f)] -> id: password]
+2017-11-22 11:22:08 INFO  HomePage: 83 - clicked on signin button and object is: Proxy element for: DefaultElementLocator 'By.id: singlebutton'
+2017-11-22 11:22:08 INFO  HomePage: 135 - clicked on : 'Test Plan' navigation manu
+2017-11-22 11:22:08 INFO  HomePage: 135 - clicked on : 'Test Setup' navigation manu
+2017-11-22 11:22:09 INFO  HomePage: 135 - clicked on : 'AUT' navigation manu
+2017-11-22 11:46:53 INFO  TestBase: 22 - ===========Starting ValidLogin Test================= 
+2017-11-22 11:46:57 INFO  HomePage: 77 - clicked on login and object is: [[FirefoxDriver: firefox on XP (60cd4b3d-ab22-4247-97b8-33a08337a536)] -> class name: login-button]
+2017-11-22 11:46:57 INFO  HomePage: 79 - entered email address and object is: [[FirefoxDriver: firefox on XP (60cd4b3d-ab22-4247-97b8-33a08337a536)] -> id: username]
+2017-11-22 11:46:57 INFO  HomePage: 81 - entered password and object is: [[FirefoxDriver: firefox on XP (60cd4b3d-ab22-4247-97b8-33a08337a536)] -> id: password]
+2017-11-22 11:47:16 INFO  HomePage: 83 - clicked on signin button and object is: Proxy element for: DefaultElementLocator 'By.id: singlebutton'
+2017-11-22 11:47:16 INFO  HomePage: 135 - clicked on : 'Test Plan' navigation manu
+2017-11-22 11:47:17 INFO  HomePage: 135 - clicked on : 'Test Setup' navigation manu
+2017-11-22 11:47:18 INFO  HomePage: 135 - clicked on : 'AUT' navigation manu
+2017-11-22 11:47:19 INFO  TestBase: 50 - creating object of firefox
+2017-11-22 11:47:25 INFO  TestBase: 65 - navigating to : https://anyaut.com/orange
+2017-11-22 11:47:34 INFO  TC003_VerifyLoginWithInvalidData: 25 - ======Starting VerifyLoginWithInvalidData Test=======
+2017-11-22 11:47:38 INFO  HomePage: 77 - clicked on login and object is: [[FirefoxDriver: firefox on XP (541bd7a8-064f-461c-bab4-ff020def4c8a)] -> class name: login-button]
+2017-11-22 11:47:38 INFO  HomePage: 79 - entered email address and object is: [[FirefoxDriver: firefox on XP (541bd7a8-064f-461c-bab4-ff020def4c8a)] -> id: username]
+2017-11-22 11:47:38 INFO  HomePage: 81 - entered password and object is: [[FirefoxDriver: firefox on XP (541bd7a8-064f-461c-bab4-ff020def4c8a)] -> id: password]
+2017-11-22 11:47:42 INFO  HomePage: 83 - clicked on signin button and object is: [[FirefoxDriver: firefox on XP (541bd7a8-064f-461c-bab4-ff020def4c8a)] -> id: singlebutton]
+2017-11-22 11:47:42 INFO  HomePage: 129 - error massage is:   Invalid Email (or) Password
+2017-11-22 11:47:42 INFO  TC003_VerifyLoginWithInvalidData: 29 - ======finished VerifyLoginWithInvalidData Test=======
+2017-11-22 11:47:42 INFO  TestBase: 50 - creating object of firefox
+2017-11-22 11:47:48 INFO  TestBase: 65 - navigating to : https://anyaut.com/orange
+2017-11-22 11:48:07 INFO  TestBase: 29 - ===========Starting CreateUserAccount Test================= 
+2017-11-22 11:48:10 INFO  HomePage: 90 - clicked on Join button and object is: [[FirefoxDriver: firefox on XP (2d868c81-2a09-4c17-a1a9-c4a1bcb45d83)] -> class name: register-button]
+2017-11-22 11:48:11 INFO  HomePage: 102 - clicked on proceed button and object is: [[FirefoxDriver: firefox on XP (2d868c81-2a09-4c17-a1a9-c4a1bcb45d83)] -> id: singlebutton]
+2017-11-22 12:01:01 INFO  TestBase: 22 - ===========Starting ValidLogin Test================= 
+2017-11-22 12:01:04 INFO  HomePage: 77 - clicked on login and object is: [[FirefoxDriver: firefox on XP (814a5ac7-5933-4092-88bc-7eb76cfa88eb)] -> class name: login-button]
+2017-11-22 12:01:04 INFO  HomePage: 79 - entered email address and object is: [[FirefoxDriver: firefox on XP (814a5ac7-5933-4092-88bc-7eb76cfa88eb)] -> id: username]
+2017-11-22 12:01:04 INFO  HomePage: 81 - entered password and object is: [[FirefoxDriver: firefox on XP (814a5ac7-5933-4092-88bc-7eb76cfa88eb)] -> id: password]
+2017-11-22 12:01:25 INFO  HomePage: 83 - clicked on signin button and object is: Proxy element for: DefaultElementLocator 'By.id: singlebutton'
+2017-11-22 12:01:25 INFO  HomePage: 135 - clicked on : 'Test Plan' navigation manu
+2017-11-22 12:01:25 INFO  HomePage: 135 - clicked on : 'Test Setup' navigation manu
+2017-11-22 12:01:26 INFO  HomePage: 135 - clicked on : 'AUT' navigation manu
+2017-11-22 12:01:27 INFO  TestBase: 50 - creating object of firefox
+2017-11-22 12:01:33 INFO  TestBase: 65 - navigating to : https://anyaut.com/orange
+2017-11-22 12:01:42 INFO  TC003_VerifyLoginWithInvalidData: 25 - ======Starting VerifyLoginWithInvalidData Test=======
+2017-11-22 12:01:45 INFO  HomePage: 77 - clicked on login and object is: [[FirefoxDriver: firefox on XP (4d9d5462-717e-480d-9d8f-68be306d3ea7)] -> class name: login-button]
+2017-11-22 12:01:45 INFO  HomePage: 79 - entered email address and object is: [[FirefoxDriver: firefox on XP (4d9d5462-717e-480d-9d8f-68be306d3ea7)] -> id: username]
+2017-11-22 12:01:45 INFO  HomePage: 81 - entered password and object is: [[FirefoxDriver: firefox on XP (4d9d5462-717e-480d-9d8f-68be306d3ea7)] -> id: password]
+2017-11-22 12:01:50 INFO  HomePage: 83 - clicked on signin button and object is: [[FirefoxDriver: firefox on XP (4d9d5462-717e-480d-9d8f-68be306d3ea7)] -> id: singlebutton]
+2017-11-22 12:01:51 INFO  HomePage: 129 - error massage is:   Invalid Email (or) Password
+2017-11-22 12:01:51 INFO  TC003_VerifyLoginWithInvalidData: 29 - ======finished VerifyLoginWithInvalidData Test=======
+2017-11-22 12:01:51 INFO  TestBase: 50 - creating object of firefox
+2017-11-22 12:01:57 INFO  TestBase: 65 - navigating to : https://anyaut.com/orange
+2017-11-22 12:02:05 INFO  TestBase: 29 - ===========Starting CreateUserAccount Test================= 
+2017-11-22 12:02:09 INFO  HomePage: 90 - clicked on Join button and object is: [[FirefoxDriver: firefox on XP (35d1d9db-2e34-47c1-9767-ab684de5a6de)] -> class name: register-button]
+2017-11-22 12:02:10 INFO  HomePage: 102 - clicked on proceed button and object is: [[FirefoxDriver: firefox on XP (35d1d9db-2e34-47c1-9767-ab684de5a6de)] -> id: singlebutton]
+2017-11-22 12:12:30 INFO  TestBase: 22 - ===========Starting ValidLogin Test================= 
+2017-11-22 12:12:34 INFO  HomePage: 77 - clicked on login and object is: [[FirefoxDriver: firefox on XP (e284fa10-9f9a-41d5-a7e9-18bf47d889cd)] -> class name: login-button]
+2017-11-22 12:12:34 INFO  HomePage: 79 - entered email address and object is: [[FirefoxDriver: firefox on XP (e284fa10-9f9a-41d5-a7e9-18bf47d889cd)] -> id: username]
+2017-11-22 12:12:34 INFO  HomePage: 81 - entered password and object is: [[FirefoxDriver: firefox on XP (e284fa10-9f9a-41d5-a7e9-18bf47d889cd)] -> id: password]
+2017-11-22 12:12:56 INFO  HomePage: 83 - clicked on signin button and object is: Proxy element for: DefaultElementLocator 'By.id: singlebutton'
+2017-11-22 12:12:57 INFO  HomePage: 135 - clicked on : 'Test Plan' navigation manu
+2017-11-22 12:12:57 INFO  HomePage: 135 - clicked on : 'Test Setup' navigation manu
+2017-11-22 12:12:59 INFO  HomePage: 135 - clicked on : 'AUT' navigation manu
+2017-11-22 12:12:59 INFO  TestBase: 50 - creating object of firefox
+2017-11-22 12:13:06 INFO  TestBase: 65 - navigating to : https://anyaut.com/orange
+2017-11-22 12:13:12 INFO  TC003_VerifyLoginWithInvalidData: 25 - ======Starting VerifyLoginWithInvalidData Test=======
+2017-11-22 12:13:15 INFO  HomePage: 77 - clicked on login and object is: [[FirefoxDriver: firefox on XP (6e35a941-1727-469f-a765-cd7c55fda080)] -> class name: login-button]
+2017-11-22 12:13:15 INFO  HomePage: 79 - entered email address and object is: [[FirefoxDriver: firefox on XP (6e35a941-1727-469f-a765-cd7c55fda080)] -> id: username]
+2017-11-22 12:13:16 INFO  HomePage: 81 - entered password and object is: [[FirefoxDriver: firefox on XP (6e35a941-1727-469f-a765-cd7c55fda080)] -> id: password]
+2017-11-22 12:13:20 INFO  HomePage: 83 - clicked on signin button and object is: [[FirefoxDriver: firefox on XP (6e35a941-1727-469f-a765-cd7c55fda080)] -> id: singlebutton]
+2017-11-22 12:13:20 INFO  HomePage: 129 - error massage is:   Invalid Email (or) Password
+2017-11-22 12:13:20 INFO  TC003_VerifyLoginWithInvalidData: 29 - ======finished VerifyLoginWithInvalidData Test=======
+2017-11-22 12:13:21 INFO  TestBase: 50 - creating object of firefox
+2017-11-22 12:13:27 INFO  TestBase: 65 - navigating to : https://anyaut.com/orange
+2017-11-22 12:13:34 INFO  TestBase: 29 - ===========Starting CreateUserAccount Test================= 
+2017-11-22 12:13:37 INFO  HomePage: 90 - clicked on Join button and object is: [[FirefoxDriver: firefox on XP (05c143eb-384b-4a7f-9ffb-26e3e93fa284)] -> class name: register-button]
+2017-11-22 12:13:38 INFO  HomePage: 102 - clicked on proceed button and object is: [[FirefoxDriver: firefox on XP (05c143eb-384b-4a7f-9ffb-26e3e93fa284)] -> id: singlebutton]
