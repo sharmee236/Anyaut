@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="Sanity Suit">
+	<test name="Login Test">
+		<classes>
+			<class name="com.Pages.AnyAut_orange.homepage.TC003_VerifyLoginWithInvalidData">
+			
+			</class>
+		</classes>
+	</test>
+	<test name="Registration">
+		<classes>
+			<class name="com.Pages.AnyAut_orange.homepage.TC001_VerifyCreateUserAccount"></class>
+		</classes>
+	</test>
+</suite>

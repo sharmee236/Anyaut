@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="TestSuite" time="90.416" tests="3" errors="0" skipped="0" failures="1">
+  <properties>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.8.0_71\jre\bin"/>
+    <property name="java.vm.version" value="25.71-b15"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="maven.multiModuleProjectDirectory" value="C:\Users\Shawon\git\GitCommitPush\AnyAut_orange"/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="path.separator" value=";"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="user.script" value=""/>
+    <property name="user.country" value="US"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="sun.os.patch.level" value="Service Pack 1"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="user.dir" value="C:\Users\Shawon\git\GitCommitPush\AnyAut_orange"/>
+    <property name="java.runtime.version" value="1.8.0_71-b15"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="java.endorsed.dirs" value="C:\Program Files\Java\jdk1.8.0_71\jre\lib\endorsed"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.io.tmpdir" value="C:\Users\Shawon\AppData\Local\Temp\"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.variant" value=""/>
+    <property name="os.name" value="Windows 7"/>
+    <property name="suiteXmlFile" value="testNG.xml"/>
+    <property name="classworlds.conf" value="C:\apache-maven-3.3.3\bin\m2.conf"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk1.8.0_71\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\apache-maven-3.3.3/bin;C:\ProgramData\Oracle\Java\javapath;C:\Program Files\Java\jdk1.8.0_71\bin;C:\Windows\system32;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Git\cmd;C:\Program Files\Java\jdk1.8.0_71\bin;."/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.class.version" value="52.0"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="os.version" value="6.1"/>
+    <property name="user.home" value="C:\Users\Shawon"/>
+    <property name="user.timezone" value="America/New_York"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="java.specification.version" value="1.8"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="user.name" value="Shawon"/>
+    <property name="java.class.path" value="C:\apache-maven-3.3.3\boot\plexus-classworlds-2.5.2.jar"/>
+    <property name="java.vm.specification.version" value="1.8"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk1.8.0_71\jre"/>
+    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher -f pom.xml test -DsuiteXmlFile=testNG.xml"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.language" value="en"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.version" value="1.8.0_71"/>
+    <property name="java.ext.dirs" value="C:\Program Files\Java\jdk1.8.0_71\jre\lib\ext;C:\Windows\Sun\Java\lib\ext"/>
+    <property name="sun.boot.class.path" value="C:\Program Files\Java\jdk1.8.0_71\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_71\jre\lib\rt.jar;C:\Program Files\Java\jdk1.8.0_71\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.8.0_71\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_71\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_71\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_71\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_71\jre\classes"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="maven.home" value="C:\apache-maven-3.3.3"/>
+    <property name="file.separator" value="\"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="sun.desktop" value="windows"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+  </properties>
+  <testcase name="testValidLogin" classname="com.Pages.AnyAut_orange.homepage.TC002_VerifyLoginWithValidData" time="28.692"/>
+  <testcase name="verifyLoginWithInvalidData" classname="com.Pages.AnyAut_orange.homepage.TC003_VerifyLoginWithInvalidData" time="8.587"/>
+  <testcase name="testCreateAccount" classname="com.Pages.AnyAut_orange.homepage.TC001_VerifyCreateUserAccount" time="9.481">
+    <failure message="Element is not currently interactable and may not be manipulated&#10;Build info: version: &apos;3.5.1&apos;, revision: &apos;9c21bb67ef&apos;, time: &apos;2017-08-17T15:26:08.955Z&apos;&#10;System info: host: &apos;SHAWON-PC&apos;, ip: &apos;192.168.202.1&apos;, os.name: &apos;Windows 7&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;6.1&apos;, java.version: &apos;1.8.0_71&apos;&#10;Driver info: org.openqa.selenium.firefox.FirefoxDriver&#10;Capabilities [{moz:profile=C:\Users\Shawon\AppData\Local\Temp\rust_mozprofile.x6ly5XUBrKPV, rotatable=false, timeouts={implicit=0.0, pageLoad=300000.0, script=30000.0}, pageLoadStrategy=normal, moz:headless=false, platform=ANY, specificationLevel=0.0, moz:accessibilityChecks=false, acceptInsecureCerts=false, browserVersion=56.0, platformVersion=6.1, moz:processID=5512.0, browserName=firefox, javascriptEnabled=true, platformName=windows_nt}]&#10;Session ID: 05c143eb-384b-4a7f-9ffb-26e3e93fa284" type="org.openqa.selenium.InvalidElementStateException">org.openqa.selenium.InvalidElementStateException: Element is not currently interactable and may not be manipulated
+Build info: version: '3.5.1', revision: '9c21bb67ef', time: '2017-08-17T15:26:08.955Z'
+System info: host: 'SHAWON-PC', ip: '192.168.202.1', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_71'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\Shawon\AppData\Local\Temp\rust_mozprofile.x6ly5XUBrKPV, rotatable=false, timeouts={implicit=0.0, pageLoad=300000.0, script=30000.0}, pageLoadStrategy=normal, moz:headless=false, platform=ANY, specificationLevel=0.0, moz:accessibilityChecks=false, acceptInsecureCerts=false, browserVersion=56.0, platformVersion=6.1, moz:processID=5512.0, browserName=firefox, javascriptEnabled=true, platformName=windows_nt}]
+Session ID: 05c143eb-384b-4a7f-9ffb-26e3e93fa284
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:422)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:185)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:120)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:164)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:82)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:641)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:275)
+	at org.openqa.selenium.remote.RemoteWebElement.clear(RemoteWebElement.java:117)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:497)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:51)
+	at com.sun.proxy.$Proxy9.clear(Unknown Source)
+	at com.Pages.AnyAut_orange.uiActions.HomePage.createUserAccount(HomePage.java:104)
+	at com.Pages.AnyAut_orange.homepage.TC001_VerifyCreateUserAccount.testCreateAccount(TC001_VerifyCreateUserAccount.java:31)
+</failure>
+    <system-out><![CDATA[2017-11-22 12:13:21 INFO  TestBase: 50 - creating object of firefox
+66318 [main] INFO com.Pages.AnyAut_orange.testBase.TestBase  - creating object of firefox
+2017-11-22 12:13:27 INFO  TestBase: 65 - navigating to : https://anyaut.com/orange
+72700 [main] INFO com.Pages.AnyAut_orange.testBase.TestBase  - navigating to : https://anyaut.com/orange
+2017-11-22 12:13:34 INFO  TestBase: 29 - ===========Starting CreateUserAccount Test================= 
+79284 [main] INFO com.Pages.AnyAut_orange.testBase.TestBase  - ===========Starting CreateUserAccount Test================= 
+2017-11-22 12:13:37 INFO  HomePage: 90 - clicked on Join button and object is: [[FirefoxDriver: firefox on XP (05c143eb-384b-4a7f-9ffb-26e3e93fa284)] -> class name: register-button]
+82361 [main] INFO com.Pages.AnyAut_orange.uiActions.HomePage  - clicked on Join button and object is: [[FirefoxDriver: firefox on XP (05c143eb-384b-4a7f-9ffb-26e3e93fa284)] -> class name: register-button]
+2017-11-22 12:13:38 INFO  HomePage: 102 - clicked on proceed button and object is: [[FirefoxDriver: firefox on XP (05c143eb-384b-4a7f-9ffb-26e3e93fa284)] -> id: singlebutton]
+83707 [main] INFO com.Pages.AnyAut_orange.uiActions.HomePage  - clicked on proceed button and object is: [[FirefoxDriver: firefox on XP (05c143eb-384b-4a7f-9ffb-26e3e93fa284)] -> id: singlebutton]
+]]></system-out>
+    <system-err><![CDATA[[GFX1-]: Receiv[GFX1-]: Receive IPC close with reason=AbnormalShutdowne IPC close with reason=AbnormalShutdown
+
+1511370801249	geckodriver	INFO	geckodriver 0.18.0
+1511370801259	geckodriver	INFO	Listening on 127.0.0.1:29485
+1511370801814	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1511370802100	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1511370803049	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Shawon\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 5512] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1511370807057	Marionette	INFO	Listening on port 65384
+1511370807566	Marionette	DEBUG	Register listener.js for window 6442450945
+Nov 22, 2017 12:13:27 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+1511370807619	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511370809851	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511370809852	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+Unable to read VR Path Registry from C:\Users\Shawon\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://anyaut.com/orange/js/freelancer.min.js, line 6: TypeError: o(...).scrollspy is not a function
+1511370811318	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://anyaut.com/orange/"
+1511370814066	Marionette	DEBUG	Received DOM event "pageshow" for "https://anyaut.com/orange/"
+log4j:WARN No such property [console] in org.apache.log4j.ConsoleAppender.
+1511370814286	Marionette	DEBUG	Received DOM event "beforeunload" for "https://anyaut.com/orange/"
+1511370814607	Marionette	DEBUG	Received DOM event "pagehide" for "https://anyaut.com/orange/"
+1511370814612	Marionette	DEBUG	Received DOM event "unload" for "https://anyaut.com/orange/"
+JavaScript error: https://anyaut.com/orange/js/freelancer.min.js, line 6: TypeError: o(...).scrollspy is not a function
+JavaScript error: https://anyaut.com/orange/js/contact_me.js, line 3: TypeError: $(...).jqBootstrapValidation is not a function
+1511370815444	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://anyaut.com/orange/sign-up.php"
+1511370817226	Marionette	DEBUG	Received DOM event "pageshow" for "https://anyaut.com/orange/sign-up.php"
+1511370818202	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+]]></system-err>
+  </testcase>
+</testsuite>

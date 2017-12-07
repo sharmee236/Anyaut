@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" verbose="0" name="Failed suite [Sanity Suit]">
+  <test name="Registration(failed)">
+    <classes>
+      <class name="com.Pages.AnyAut_orange.homepage.TC003_VerifyLoginWithInvalidData">
+        <methods>
+          <include name="endTest"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- com.Pages.AnyAut_orange.homepage.TC003_VerifyLoginWithInvalidData -->
+      <class name="com.Pages.AnyAut_orange.homepage.TC001_VerifyCreateUserAccount">
+        <methods>
+          <include name="setUp"/>
+          <include name="endTest"/>
+          <include name="testCreateAccount"/>
+        </methods>
+      </class> <!-- com.Pages.AnyAut_orange.homepage.TC001_VerifyCreateUserAccount -->
+    </classes>
+  </test> <!-- Registration(failed) -->
+</suite> <!-- Failed suite [Sanity Suit] -->
